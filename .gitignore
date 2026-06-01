@@ -1,0 +1,6 @@
+.DS_Store
+*.tmp
+.env
+.env.*
+*.key
+sync_push.log

@@ -1,0 +1,122 @@
+{
+  "CONFIG": {
+    "bpm": 124,
+    "genre": "minimal deep house with organic percussion",
+    "mood": "hypnotic, late-night, warm and dubby",
+    "chord_progression": [
+      "Am9",
+      "Fmaj7",
+      "Cmaj7",
+      "Em7"
+    ],
+    "bars": 32,
+    "time_sig": [
+      4,
+      4
+    ],
+    "key": "A minor"
+  },
+  "TRACK_LAYOUT": [
+    {
+      "index": 0,
+      "name": "Kick",
+      "channel": 1,
+      "pitch_range": [
+        36,
+        36
+      ],
+      "role": "drum_kick"
+    },
+    {
+      "index": 1,
+      "name": "Snare/Clap",
+      "channel": 2,
+      "pitch_range": [
+        38,
+        40
+      ],
+      "role": "drum_snare_clap"
+    },
+    {
+      "index": 2,
+      "name": "Closed Hat",
+      "channel": 3,
+      "pitch_range": [
+        42,
+        42
+      ],
+      "role": "drum_chh"
+    },
+    {
+      "index": 3,
+      "name": "Open Hat",
+      "channel": 4,
+      "pitch_range": [
+        46,
+        46
+      ],
+      "role": "drum_ohh"
+    },
+    {
+      "index": 4,
+      "name": "Percussion",
+      "channel": 5,
+      "pitch_range": [
+        48,
+        60
+      ],
+      "role": "drum_perc_organic"
+    },
+    {
+      "index": 5,
+      "name": "Bass",
+      "channel": 6,
+      "pitch_range": [
+        28,
+        47
+      ],
+      "role": "bass"
+    },
+    {
+      "index": 6,
+      "name": "Chord/Rhodes",
+      "channel": 7,
+      "pitch_range": [
+        55,
+        79
+      ],
+      "role": "chord"
+    },
+    {
+      "index": 7,
+      "name": "Lead",
+      "channel": 8,
+      "pitch_range": [
+        60,
+        84
+      ],
+      "role": "lead_melodic"
+    },
+    {
+      "index": 8,
+      "name": "Pad/Texture",
+      "channel": 9,
+      "pitch_range": [
+        55,
+        79
+      ],
+      "role": "pad"
+    },
+    {
+      "index": 9,
+      "name": "FX/Riser",
+      "channel": 10,
+      "pitch_range": [
+        60,
+        96
+      ],
+      "role": "fx_riser"
+    }
+  ],
+  "MODEL": "claude-opus-4-7"
+}
