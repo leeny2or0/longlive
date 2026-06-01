@@ -1,0 +1,388 @@
+{
+  "meta": {
+    "bpm": 134,
+    "bars": 16,
+    "key": "Bb minor",
+    "style": "ambient_pad"
+  },
+  "tracks": [
+    {
+      "track_index": 0,
+      "track_name": "Kick",
+      "notes": [
+        {
+          "pitch": 36,
+          "start_beat": 0.0,
+          "duration": 0.5,
+          "velocity": 100
+        },
+        {
+          "pitch": 36,
+          "start_beat": 16.0,
+          "duration": 0.5,
+          "velocity": 95
+        },
+        {
+          "pitch": 36,
+          "start_beat": 32.0,
+          "duration": 0.5,
+          "velocity": 95
+        },
+        {
+          "pitch": 36,
+          "start_beat": 48.0,
+          "duration": 0.5,
+          "velocity": 90
+        }
+      ]
+    },
+    {
+      "track_index": 1,
+      "track_name": "Snare/Clap",
+      "notes": [
+        {
+          "pitch": 40,
+          "start_beat": 60.0,
+          "duration": 0.25,
+          "velocity": 55
+        }
+      ]
+    },
+    {
+      "track_index": 2,
+      "track_name": "Closed Hat",
+      "notes": [
+        {
+          "pitch": 42,
+          "start_beat": 0.0,
+          "duration": 0.125,
+          "velocity": 40
+        }
+      ]
+    },
+    {
+      "track_index": 3,
+      "track_name": "Open Hat",
+      "notes": [
+        {
+          "pitch": 46,
+          "start_beat": 30.0,
+          "duration": 0.5,
+          "velocity": 50
+        },
+        {
+          "pitch": 46,
+          "start_beat": 62.0,
+          "duration": 0.5,
+          "velocity": 45
+        }
+      ]
+    },
+    {
+      "track_index": 4,
+      "track_name": "Percussion",
+      "notes": [
+        {
+          "pitch": 54,
+          "start_beat": 8.0,
+          "duration": 0.25,
+          "velocity": 50
+        },
+        {
+          "pitch": 56,
+          "start_beat": 24.0,
+          "duration": 0.25,
+          "velocity": 50
+        },
+        {
+          "pitch": 54,
+          "start_beat": 40.0,
+          "duration": 0.25,
+          "velocity": 50
+        },
+        {
+          "pitch": 56,
+          "start_beat": 56.0,
+          "duration": 0.25,
+          "velocity": 50
+        }
+      ]
+    },
+    {
+      "track_index": 5,
+      "track_name": "Bass",
+      "notes": [
+        {
+          "pitch": 34,
+          "start_beat": 0.0,
+          "duration": 16.0,
+          "velocity": 70
+        },
+        {
+          "pitch": 30,
+          "start_beat": 16.0,
+          "duration": 16.0,
+          "velocity": 72
+        },
+        {
+          "pitch": 37,
+          "start_beat": 32.0,
+          "duration": 16.0,
+          "velocity": 74
+        },
+        {
+          "pitch": 29,
+          "start_beat": 48.0,
+          "duration": 16.0,
+          "velocity": 70
+        }
+      ]
+    },
+    {
+      "track_index": 6,
+      "track_name": "Chord/Rhodes",
+      "notes": [
+        {
+          "pitch": 58,
+          "start_beat": 0.0,
+          "duration": 16.0,
+          "velocity": 55
+        },
+        {
+          "pitch": 61,
+          "start_beat": 0.0,
+          "duration": 16.0,
+          "velocity": 52
+        },
+        {
+          "pitch": 65,
+          "start_beat": 0.0,
+          "duration": 16.0,
+          "velocity": 50
+        },
+        {
+          "pitch": 68,
+          "start_beat": 0.0,
+          "duration": 16.0,
+          "velocity": 48
+        },
+        {
+          "pitch": 72,
+          "start_beat": 0.0,
+          "duration": 16.0,
+          "velocity": 45
+        },
+        {
+          "pitch": 54,
+          "start_beat": 16.0,
+          "duration": 16.0,
+          "velocity": 58
+        },
+        {
+          "pitch": 58,
+          "start_beat": 16.0,
+          "duration": 16.0,
+          "velocity": 54
+        },
+        {
+          "pitch": 61,
+          "start_beat": 16.0,
+          "duration": 16.0,
+          "velocity": 52
+        },
+        {
+          "pitch": 65,
+          "start_beat": 16.0,
+          "duration": 16.0,
+          "velocity": 48
+        },
+        {
+          "pitch": 61,
+          "start_beat": 32.0,
+          "duration": 16.0,
+          "velocity": 60
+        },
+        {
+          "pitch": 65,
+          "start_beat": 32.0,
+          "duration": 16.0,
+          "velocity": 56
+        },
+        {
+          "pitch": 68,
+          "start_beat": 32.0,
+          "duration": 16.0,
+          "velocity": 54
+        },
+        {
+          "pitch": 72,
+          "start_beat": 32.0,
+          "duration": 16.0,
+          "velocity": 50
+        },
+        {
+          "pitch": 65,
+          "start_beat": 48.0,
+          "duration": 16.0,
+          "velocity": 55
+        },
+        {
+          "pitch": 68,
+          "start_beat": 48.0,
+          "duration": 16.0,
+          "velocity": 52
+        },
+        {
+          "pitch": 72,
+          "start_beat": 48.0,
+          "duration": 16.0,
+          "velocity": 50
+        },
+        {
+          "pitch": 75,
+          "start_beat": 48.0,
+          "duration": 16.0,
+          "velocity": 46
+        }
+      ]
+    },
+    {
+      "track_index": 7,
+      "track_name": "Lead",
+      "notes": [
+        {
+          "pitch": 77,
+          "start_beat": 4.0,
+          "duration": 6.0,
+          "velocity": 55
+        },
+        {
+          "pitch": 80,
+          "start_beat": 12.0,
+          "duration": 3.0,
+          "velocity": 58
+        },
+        {
+          "pitch": 73,
+          "start_beat": 20.0,
+          "duration": 8.0,
+          "velocity": 60
+        },
+        {
+          "pitch": 70,
+          "start_beat": 30.0,
+          "duration": 2.0,
+          "velocity": 55
+        },
+        {
+          "pitch": 77,
+          "start_beat": 36.0,
+          "duration": 6.0,
+          "velocity": 62
+        },
+        {
+          "pitch": 80,
+          "start_beat": 44.0,
+          "duration": 3.0,
+          "velocity": 60
+        },
+        {
+          "pitch": 75,
+          "start_beat": 50.0,
+          "duration": 8.0,
+          "velocity": 58
+        },
+        {
+          "pitch": 72,
+          "start_beat": 60.0,
+          "duration": 3.5,
+          "velocity": 50
+        }
+      ]
+    },
+    {
+      "track_index": 8,
+      "track_name": "Pad/Texture",
+      "notes": [
+        {
+          "pitch": 70,
+          "start_beat": 0.0,
+          "duration": 16.0,
+          "velocity": 45
+        },
+        {
+          "pitch": 75,
+          "start_beat": 0.0,
+          "duration": 16.0,
+          "velocity": 42
+        },
+        {
+          "pitch": 68,
+          "start_beat": 16.0,
+          "duration": 16.0,
+          "velocity": 48
+        },
+        {
+          "pitch": 73,
+          "start_beat": 16.0,
+          "duration": 16.0,
+          "velocity": 44
+        },
+        {
+          "pitch": 72,
+          "start_beat": 32.0,
+          "duration": 16.0,
+          "velocity": 50
+        },
+        {
+          "pitch": 77,
+          "start_beat": 32.0,
+          "duration": 16.0,
+          "velocity": 46
+        },
+        {
+          "pitch": 68,
+          "start_beat": 48.0,
+          "duration": 16.0,
+          "velocity": 48
+        },
+        {
+          "pitch": 75,
+          "start_beat": 48.0,
+          "duration": 16.0,
+          "velocity": 44
+        }
+      ]
+    },
+    {
+      "track_index": 9,
+      "track_name": "FX/Riser",
+      "notes": [
+        {
+          "pitch": 72,
+          "start_beat": 14.0,
+          "duration": 2.0,
+          "velocity": 40
+        },
+        {
+          "pitch": 75,
+          "start_beat": 30.0,
+          "duration": 2.0,
+          "velocity": 45
+        },
+        {
+          "pitch": 78,
+          "start_beat": 46.0,
+          "duration": 2.0,
+          "velocity": 50
+        },
+        {
+          "pitch": 84,
+          "start_beat": 60.0,
+          "duration": 4.0,
+          "velocity": 60
+        }
+      ]
+    }
+  ]
+}
